@@ -131,7 +131,7 @@ force_https_domains = [
 enable_automatic_domains_whitelist = True
 domains_whitelist_auto_add_glob_list = (
     # 将你的域名通配符填写到这, 比如下面这样:
-    "*.yhm",
+    "*.mhm",
     # "*.example.org",
 )
 
